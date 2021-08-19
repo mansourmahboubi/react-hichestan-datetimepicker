@@ -4,7 +4,7 @@ import shallowEqualObjects from 'shallow-equal/objects';
 import DateInput from './DateInputSimple';
 import {CalendarIcon, DeleteIcon} from './Picker/Icons';
 import DatePicker from './DatePicker';
-import './DateInputWithDialog.css';
+// import './DateInputWithDialog.css';
 import { formatGregorian, formatJalaali } from './dateUtils';
 
 class DateInputWithDialog extends Component {
